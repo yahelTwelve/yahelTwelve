@@ -1,1 +1,167 @@
-defsfsd
+CARACTERISTICAS DE PERSONALIDAD
+
+Angry – Bravo '
+Amusing – Divertido
+Calm - Calmado '
+Cautious – Cauteloso '
+Charming – Encantador
+Clever – Inteligente 
+Coherent – Coherente
+Competitive – Competitivo
+Conceited – Engreído
+Cunning – Astuto ' 
+Dull – Aburrido
+Eccentric – Excéntrico
+Embarrassed - Avergonzado
+Enthusiastic – Entusiasta
+Fair – Justo
+Faithful - Fiel
+Fussy – Exigente
+Grumpy - Gruñón '
+Impulsive – Impulsivo '
+Intelligent – Inteligente
+Jealous – Celoso '
+Loyal – Leal
+Nice - Amable '
+Peaceful - Pacífico
+Picky – Quisquilloso '
+Pleasant – Agradable
+Proud - Orgulloso '
+Reliable – Confiable '
+Rude – Grosero
+Scary - Aterrador
+Spiteful – Rencoroso '
+Thoughtful – Reflexivo '
+
+CARACTERISTICAS DE APARIENCIA
+
+Attractive – Atractivo
+Beautiful – Hermosa (para mujeres)
+Big – Grande
+Clean - Limpio
+Chubby - Gordito
+Dirty – Sucio
+Elegant – Elegante
+Fit – En forma
+Flabby – Flácido
+Good-looking – Con buen aspecto
+Handsome – Guapo (para hombres)
+Horrible - Horrible
+Informal - Informal
+Magnificent – Magnífico
+Pretty – Guapa (para mujeres)
+Small – Pequeño
+Skinny – Delgado
+Slender – Esbelto
+Thin – Delgado
+Ugly – Feo
+Unattractive - No atractivo
+Red - Rojo
+Yellow - Amarillo
+Blue - Azul
+Gray - Gris
+White - Blanc -
+range - Naranja
+Green - Verde
+Purple - Morado
+Black - Negro
+Brown - Marrón 
+
+CARACTERISTICAS DE FORMA
+
+Crooked – Torcido
+Cylindrical – Cilíndrico
+High – Alto
+Narrow – Estrecho
+Rectangular – Rectangular
+Round – Redondo
+Spherical – Esférico
+Square – Cuadrado
+Straight – Recto
+
+CARACTERISTICAS DE TAMAÑO
+
+Big – Grande
+Gigantic – Gigantesco
+Huge – Enorme
+Immense – Inmenso
+Large – Grande
+Little – Pequeño
+Massive – Masivo
+Medium – Mediano
+Microscopic – Microscópico
+Miniature – Miniatura
+Small – Pequeño
+Thick – Grueso
+Thin – Delgado
+Tiny – Diminuto
+
+CARACTERISTICAS DE GUSTO
+
+Acidic – Ácido
+Creamy – Cremoso
+Fatty – Graso
+Nutritious – Nutritivo
+Rancid – Rancio
+Salty – Salado
+Spicy – Picante
+Sweet – Dulce
+Tasty – Sabroso
+
+CARACTERISTICAS DE TEXTURA Y TACTO
+
+Blunt – Desafilado
+Damp – Húmedo
+Even – Uniforme
+Flaky – Escamoso
+Fluffy – Esponjoso
+Loose – Suelto
+Rough – Áspero
+Sharp – Afilado
+Slimy – Viscoso
+Slippery – Resbaladizo
+Sticky – Pegajoso
+Tight – Apretado
+Uneven – Desigual
+
+CARACTERISTICAS DE COLOR
+
+Orange – Naranja
+Pink – Rosa
+Blue – Azul
+Black – Negro
+White – Blanco
+Green – Verde
+Yellow – Amarillo
+Gray – Gris
+Brown – Marrón
+Purple – Morado
+
+CARACTERISTICAS DE ESTADO
+
+Crazy - Loco
+Sick - Enfermo
+Drunk - Ebrio 
+Asleep - Dormido
+Hungry - Hambriento
+Energetic - Enérgico
+Dead - Muerto
+Open - Abierto
+Single - Soltero	
+Sane Cuerdo
+Healthy - Sano
+Sober - Sobrio
+Awake - Despierto
+Full - Lleno
+Tired - Cansado
+Alive - Vivo
+Closed - Cerrado
+Married - Casado
+Cold - Frío
+Warm - Cálido	
+Hot - Caliente
+Cool - Fresco
+Old - Viejo
+Young - Joven
+New - Nuevo
+
